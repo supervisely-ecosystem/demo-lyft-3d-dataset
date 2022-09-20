@@ -14,13 +14,13 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/demo-poinctloud-episodes)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/demo-poinctloud-episodes.png)](https://supervise.ly) 
-[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/demo-poinctloud-episodes.png)](https://supervise.ly)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/demo-lyft-3d-dataset)
+[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/demo-lyft-3d-dataset.png)](https://supervise.ly) 
+[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/demo-lyft-3d-dataset.png)](https://supervise.ly)
 
 </div>
 
-Demo project with pointcloud episodes from Lyft 3D dataset without labels
+Demo project with pointcloud episodes from LYFT 3D dataset without labels
 
 ## Overview 
 

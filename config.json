@@ -1,6 +1,6 @@
 {
-  "name": "Demo pointcloud episodes",
-  "description": "Project with pointcloud episodes",
+  "name": "Demo LYFT 3D dataset",
+  "description": "Demo project with pointcloud episodes from LYFT 3D dataset without labels",
   "type": "project",
   "categories": [
     "import",
