@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
 
-<img src="https://user-images.githubusercontent.com/48913536/171741159-db1fcbb1-9f32-49ca-b9cd-e8eee12e81df.png" width="100"/> 
+<img src="https://user-images.githubusercontent.com/48913536/191273805-b5543e26-e4ca-4bdc-a246-29ca8ba5ca22.png" width="100"/> 
 
 # Demo Lyft 3D dataset
 
@@ -27,11 +27,11 @@ Demo project with pointcloud episodes from LYFT 3D dataset without labels
 `demo_lyft_3d` is an example project with pointcloud episodes. 
 Pointcloud episodes for this project were acquired from [LYFT 3D](https://level-5.global/data/) dataset.
 
-<img src="https://user-images.githubusercontent.com/48913536/171741176-c71fc693-c11f-49fa-912e-609d2b6ba7ff.png" style="width:150%;"/>
+<img src="https://user-images.githubusercontent.com/48913536/191273807-c0f6be43-a984-4970-9a64-938a05beb28d.png" style="width:150%;"/>
 
 ## Download
 
-Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-poinctloud-episodes/releases/download/v0.0.1/demo_pointcloud_episodes.zip) (409 MB).
+Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-lyft-3d-dataset/releases/download/v0.0.1/demo_lyft_3d.zip) (409 MB).
 
 ## Statistics
 
