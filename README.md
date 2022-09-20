@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/48913536/191273805-b5543e26-e4ca-4bdc-a246-29ca8ba5ca22.png" width="100"/> 
 
-# Demo Lyft 3D dataset
+# Demo LYFT 3D dataset
 
 <p align="center">
 
